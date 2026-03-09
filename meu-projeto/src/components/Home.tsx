@@ -1,0 +1,4 @@
+ // src/components/Home.jsx
+export default function Home() {
+   return <h2>Página Home</h2>;
+ }
