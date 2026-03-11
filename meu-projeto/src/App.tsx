@@ -1,7 +1,7 @@
   // src/App.jsx
   import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-  import Home from '../src/components/home'
-  import Sobre from '../src/components/sobre'
+  import Home from './components/Home'
+  import Sobre from '../src/components/Sobre'
   import Contato from '../src/components/Contato'
   import './assets/teste.css';
   
